@@ -1,0 +1,32 @@
+@import url("http://fonts.cdnfonts.com/css/bang-whack-pow");
+@import url("https://fonts.googleapis.com/css2?family=Sniglet&display=swap");
+@import url("react-toastify/dist/ReactToastify.css");
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Sniglet", cursive;
+  width: 100%;
+  height: 100%;
+}
+
+input,
+button,
+a {
+  font-family: "Sniglet", cursive;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+div#__next {
+  width: 100%;
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
